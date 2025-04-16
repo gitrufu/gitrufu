@@ -1,7 +1,6 @@
 ### 👨‍💻 About Me
-
+- Hey there! I'm a passionate full-stack developer and tech enthusiast who loves turning ideas into clean, functional, and user-friendly applications.
 - 🔭 I’m currently working on **E-commerce app using Kotlin**   
-- 👯 I’m looking to collaborate on **[Interesting Collab Idea or Open Source]**  
 - 💬 Ask me about **C, Java, Android Dev, Backend, Networking**  
 - 📫 Reach me at **d.rufuu@gmail.com**  
 - ⚡ Fun fact: **I geek out over efficient code, clean UI, and automation**
