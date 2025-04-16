@@ -61,10 +61,4 @@
 ---
 
 ### 💡 Dev Quote
-
-> “Programs must be written for people to read, and only incidentally for machines to execute.” – Harold Abelson
-
-_Or use this dynamic quote:_
-
-```md
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)-->
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
